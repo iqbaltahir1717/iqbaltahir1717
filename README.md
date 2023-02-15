@@ -1,6 +1,4 @@
-### Hi! Welcome to my profile
-
-<span><img src='/assets/gif/wave.gif'> </span>
+<hi><span>Hi! Welcome to my profile <img widt="20px" src='/assets/gif/wave.gif'> </span></h1>
 
 > I'am Fullstack Programmer
 > I'am Honestly Learning React
