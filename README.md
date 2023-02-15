@@ -15,7 +15,7 @@
 ### Most Languages
 
 <p align="center">
-    <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=iqbaltahir1717&layout=compact'>
+    <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=iqbaltahir1717&layout=compact&theme=github_dark'>
 </p>
 
 ### Found Me At
