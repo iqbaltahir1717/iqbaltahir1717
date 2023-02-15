@@ -2,9 +2,9 @@
 
 ### About Me
 
-- > I'am Fullstack Programmer
-- > I'am Honestly Learning React
-- > I'am Honestly Work From Home <img width="20" src='/assets/gif/react.gif?raw=true'>
+- > I'am Fullstack Programmer 🤓
+- > I'am Honestly Learning React <img width="20" src='/assets/gif/react.gif?raw=true'>
+- > I'am Honestly Work From Home 🏡
 
 ### Github Stats
 
