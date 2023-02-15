@@ -3,6 +3,7 @@
 ### About Me
 
 - > I'am Fullstack Programmer 🤓
+- > I'am UI Designer Too 🎨
 - > I'am Honestly Learning React <img width="20" src='/assets/gif/react.gif?raw=true'>
 - > I'am Honestly Work From Home 🏡
 
@@ -22,6 +23,6 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:portalservice30@gmail.com) &nbsp;
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://iqbaltahir33.com) &nbsp;
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/iqbaltahir33) &nbsp;
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iqbaltahir33) &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iqbaltahir33) &nbsp;
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/iqbaltahir33) &nbsp;
