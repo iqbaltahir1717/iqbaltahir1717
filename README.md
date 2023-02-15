@@ -4,7 +4,7 @@
 > I'am Honestly Learning React
 > I'am Honestly Work From Home
 
-### Github Stats
+### Github Stats ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 <p>
     <img align='center' src='https://github-readme-stats.vercel.app/api?username=iqbaltahir1717&theme=github_dark&show_icons=true&count_private=true'>
