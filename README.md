@@ -1,4 +1,4 @@
-<h1><span>Hi! Welcome To My Github <img src='/assets/gif/wave.gif?raw=true'> </span></h1>
+<h1><span>Hi! Welcome To My Github <img width="32" src='/assets/gif/wave.gif?raw=true'> </span></h1>
 
 ### About Me
 
