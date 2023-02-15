@@ -1,4 +1,4 @@
-<hi><span>Hi! Welcome to my profile <img width="10" src='/assets/gif/wave.gif'> </span></h1>
+<h1><span>Hi! Welcome to my profile <img width="24" src='/assets/gif/wave.gif'> </span></h1>
 
 > I'am Fullstack Programmer
 > I'am Honestly Learning React
