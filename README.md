@@ -4,10 +4,14 @@
 > I'am Honestly Learning React
 > I'am Honestly Work From Home
 
-### Github Stats ![Alt Text](/assets/gif/wave.gif)
+### Github Stats
 
-<p>
-    <img align='center' src='https://github-readme-stats.vercel.app/api?username=iqbaltahir1717&theme=github_dark&show_icons=true&count_private=true'>
+<p align="center">
+    <img align="center" src='https://github-readme-stats.vercel.app/api?username=iqbaltahir1717&theme=github_dark&show_icons=true&count_private=true'>
+</p>
+
+<p align="center">
+    <img align="center" src='[Top Languages Card]'>
 </p>
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbaltahir1717&layout=compact)
